@@ -1,0 +1,15 @@
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/bin/Debug/net9.0/FlexibleAutomationConsole
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/bin/Debug/net9.0/FlexibleAutomationConsole.deps.json
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/bin/Debug/net9.0/FlexibleAutomationConsole.runtimeconfig.json
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/bin/Debug/net9.0/FlexibleAutomationConsole.dll
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/bin/Debug/net9.0/FlexibleAutomationConsole.pdb
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.AssemblyInfoInputs.cache
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.AssemblyInfo.cs
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.csproj.CoreCompileInputs.cache
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.sourcelink.json
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.dll
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/refint/FlexibleAutomationConsole.dll
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.pdb
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/FlexibleAutomationConsole.genruntimeconfig.cache
+/Users/maksym.vovchok/local/kpi/TRPZ/flexible-automation-tool/FlexibleAutomationConsole/obj/Debug/net9.0/ref/FlexibleAutomationConsole.dll
